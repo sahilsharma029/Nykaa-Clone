@@ -44,3 +44,6 @@ Accessibility Features: Consider adding accessibility features like alternative 
 Note:
 
 This is a basic HTML and CSS implementation. Functionality like user accounts, shopping carts, and secure payment processing would require additional technologies like JavaScript, backend development frameworks, and secure payment APIs.
+
+
+created by Sahil Sharma
