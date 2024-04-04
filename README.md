@@ -1,5 +1,5 @@
 # Nykaa-Clone
-Nykaa Clone using HTML, CSS 
+Nykaa Clone using HTML, CSS and javascript
 
 Project Name: Nykaa Clone
 
